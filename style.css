@@ -1,0 +1,31 @@
+#buttsort{
+    display: none;
+    margin-top: 20;
+    margin-bottom: 20;
+}
+input {
+     	margin: 10px;
+     }
+ h3{
+     margin-top: 20px;
+      margin-bottom: 20px;
+    }
+ #buttsub{
+        margin-top: 20;
+        margin-bottom: 20;
+   
+    }
+    #display_with_comma{
+        border:1px solid green;
+        padding:10px;
+        background-color:greenyellow;
+        border-radius:10px;
+        width:50%;
+    }
+     #display_without_comma{
+        border:1px solid red;
+        padding:10px;
+        background-color:pink;
+        border-radius:10px;
+        width:50%;
+    }
